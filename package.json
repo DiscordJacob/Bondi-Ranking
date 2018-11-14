@@ -14,7 +14,8 @@
     "easydata": "^1.0.1",
     "request": "^2.88.0",
     "signalr-client": "0.0.18",
-    "discord.js": "^11.4.2"
+    "discord.js": "^11.4.2",
+    "roblox-js": "^4.0.3"
   },
   "repository": {
     "type": "GitHub",
