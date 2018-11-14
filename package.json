@@ -13,7 +13,7 @@
     "cheerio": "^1.0.0-rc.2",
     "easydata": "^1.0.1",
     "request": "^2.88.0",
-    "signalr-client": "0.0.18"
+    "signalr-client": "0.0.18",
     "discord.js": "^11.4.2"
   },
   "repository": {
